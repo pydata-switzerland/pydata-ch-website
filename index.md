@@ -21,13 +21,6 @@ Welcome to the official website of **PyData Switzerland**!
 
 We are a community of data enthusiasts, professionals, and researchers passionate about data science, machine learning, and open source in Switzerland.  
 
-## Get Involved  
-- Attend our meetups in [Lausanne](https://www.meetup.com/pydata-lausanne/), Valais, Geneva, Basel, Zurich  
-- Follow us on [LinkedIn](https://www.linkedin.com/company/pydata-switzerland/)  
-
-## Contact  
-For questions or collaboration, email us at [info@pydata.ch](mailto:info@pydata.ch).  
-
 ## Association  
 
 We are an official association, under Swiss law, with official address at:  
@@ -45,6 +38,18 @@ Here is our 2025 founding committee:
 * **Secretary:** [Marco Calizzi](https://www.linkedin.com/in/marco-calizzi/)  
 * **Valais-representant:** [Gary Folli](https://www.linkedin.com/in/gary-folli/)  
 
-## Donations  
+## Tax-free Donations  
 
 * IBAN: **CH91 0900 0000 1675 4573 5**
+
+## Get Involved  
+- Attend our meetups in [Lausanne](https://www.meetup.com/pydata-lausanne/), Valais, Geneva, Basel, Zurich 
+
+
+## Contact  
+
+For questions or collaboration, email us at [info@pydata.ch](mailto:info@pydata.ch).  
+<a href="https://www.linkedin.com/company/pydata-switzerland/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" alt="LinkedIn" width="32" style="vertical-align:middle; margin-right:8px;" />
+    Follow us on LinkedIn
+</a>
