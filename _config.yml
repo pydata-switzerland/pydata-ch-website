@@ -1,7 +1,8 @@
-title: PyData Switzerland
+title: 
 email: info@pydata.ch
-description: >-
-  PyData Switzerland is a community for data enthusiasts, professionals, and researchers in Switzerland. Join us for meetups, workshops, and networking!
+description: 
 baseurl: ""
 url: "https://pydata-switzerland.github.io/pydata-ch-website"
-theme: minima
+remote_theme: pages-themes/cayman@v0.2.0
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one

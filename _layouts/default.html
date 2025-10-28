@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{ page.title }} | {{ site.title }}</title>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.min.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/github-markdown-css/5.2.0/github-markdown-light.min.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/cayman/1.0.5/cayman.min.css">
+  <style>
+    body { background: #fff; }
+    .markdown-body { max-width: 700px; margin: 2rem auto; padding: 2rem; background: #fff; border-radius: 8px; }
+  </style>
+</head>
+<body>
+  <section class="page-header">
+    <h1 class="project-name">{{ site.title }}</h1>
+    <h2 class="project-tagline">{{ site.description }}</h2>
+  </section>
+  <main class="markdown-body">
+    {{ content }}
+  </main>
+</body>
+</html>
