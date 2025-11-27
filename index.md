@@ -52,12 +52,15 @@ or scan this QR code 👇
 
 <img src="./QR_twint_pydata-ch.png" alt="" width="300" style="display:block;margin:2rem auto;" />
 
+## Join our Whatsapp community! 👇
+
+[Pydata Whatsapp community](https://chat.whatsapp.com/DaFqGL3IhMLKv3I5sKdO8U) 👈 inside you can find the chapter-related groups
+
 ## Get Involved
 
-Attend or help us to organize our meetups in [Lausanne](https://www.meetup.com/pydata-lausanne/), Valais, Geneva, Basel, Zurich -- we are always looking for 3S :) -- space, speakers and sponsors 
+Attend or help us to organize our meetups in [Lausanne](https://www.meetup.com/pydata-lausanne/), [Valais](https://www.meetup.com/pydata-valais/), Geneva, [Basel](https://www.meetup.com/pydata-basel/), [Zurich](https://www.meetup.com/pydata-zurich/) -- we are always looking for 3S :) -- space, speakers and sponsors 
 
 ## Contact
 
-For questions or collaboration, email us at [info@pydata.ch](mailto:info@pydata.ch).
-<br>
+For questions or collaboration, email us at [info@pydata.ch](mailto:info@pydata.ch) (but it will be faster on whatsapp :)
 
