@@ -5,8 +5,7 @@ title:
 
 <img src="./pydataCH.png" alt="" width="300" style="display:block;margin:2rem auto;" />
 
-# PyData Switzerland [![LinkedIn](https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg){:style="width:24px;height:24px;vertical-align:middle;"}](https://www.linkedin.com/company/pydata-switzerland/)
-
+# PyData Switzerland [![LinkedIn](https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg){:style="width:24px;height:24px;vertical-align:middle;"}](https://www.linkedin.com/company/pydata-switzerland/) [![GitHub](https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/github.svg){:style="width:24px;height:24px;vertical-align:middle;"}](https://github.com/pydata-switzerland)
 
 Welcome to the official website of **PyData Switzerland**!
 
