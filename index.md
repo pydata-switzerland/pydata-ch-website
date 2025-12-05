@@ -51,7 +51,7 @@ or scan this QR code 👇
 
 <img src="./QR_twint_pydata-ch.png" alt="" width="300" style="display:block;margin:2rem auto;" />
 
-## Join our Whatsapp community! 👇
+## Join our Whatsapp community ![Whatsapp](https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/whatsapp.svg){:style="width:24px;height:24px;vertical-align:middle;"} !
 
 [Pydata Whatsapp community](https://chat.whatsapp.com/DaFqGL3IhMLKv3I5sKdO8U) 👈 inside you can find the chapter-related groups
 
