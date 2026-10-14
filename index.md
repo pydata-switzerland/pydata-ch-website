@@ -62,7 +62,9 @@ or scan this QR code 👇
 
 ## Get Involved
 
-Attend or help us to organize our meetups in [Lausanne](https://www.meetup.com/pydata-lausanne/), [Valais](https://www.meetup.com/pydata-valais/), Geneva, [Basel](https://www.meetup.com/pydata-basel/), [Zurich](https://www.meetup.com/pydata-zurich/) -- we are always looking for 3S :) -- space, speakers and sponsors 
+Attend or help us to organize our meetups in [Lausanne](https://www.meetup.com/pydata-lausanne/), Geneva, [Basel](https://www.meetup.com/pydata-basel/), [Zurich](https://www.meetup.com/pydata-zurich/) -- we are always looking for 3S :) -- space, speakers and sponsors 
+
+Sadly, we had to drop our [Valais chapter](https://www.meetup.com/pydata-valais/), due to personal and bureaucratic constraints. 
 
 ## Contact
 
