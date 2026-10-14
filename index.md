@@ -21,12 +21,17 @@ Rue du Valentin 12,
 1004 Lausanne
 ```
 
-**2025 Founding Committee:**
+**2026/2027 Founding Committee:**
 
 - **President:** [Gianrocco Lazzari](https://www.linkedin.com/in/gianroccolazzari/)
-- **Vice-President:** [Raphael Luthi](https://www.linkedin.com/in/raphaelluthi/)
-- **Secretary:** [Marco Calizzi](https://www.linkedin.com/in/marco-calizzi/)
-- **Valais-representant:** [Gary Folli](https://www.linkedin.com/in/gary-folli/)
+- **Vice-President:** [Marco Calizzi](https://www.linkedin.com/in/marco-calizzi/)
+
+
+**Former Committee Members** 
+
+2025/2026
+-  [Gary Folli](https://www.linkedin.com/in/gary-folli/)
+-  [Raphael Luthi](https://www.linkedin.com/in/raphaelluthi/)
 
 ## Tax-free Donations
 
